@@ -1,3 +1,11 @@
+## 👩‍💻 Olá, tudo bem?
+Sou uma estudante de engenharia de software apaixonada pelo mundo da programação. Minha jornada com códigos iniciou em 2021, e desde então, descobri minha nova paixão, que por sorte, se tornou também minha profissão. 
+
+Meu maior interesse é a área de analise e mineração de dados, transformar conjuntos aparentemente confusos em insights valiosos é empolgante. Cada padrão encontrado é uma descoberta que impulsiona decisões importantes.
+
+###“Qualquer tecnologia suficientemente avançada é equivalente à mágica”. — Arthur C. Clarke
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriela-constante-20b6291a1/) 
 
