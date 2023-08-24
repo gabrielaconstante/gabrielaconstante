@@ -1,9 +1,9 @@
 ## 👩‍💻 Olá, tudo bem?
-Sou uma estudante de engenharia de software apaixonada pelo mundo da programação. Minha jornada com códigos iniciou em 2021, e desde então, descobri minha nova paixão, que por sorte, se tornou também minha profissão. 
+I'm a software engineering student passionate about the world of programming. My journey with codes started in 2021, and since then, I discovered my new passion, which luckily also became my profession.
 
-Meu maior interesse é a área de analise e mineração de dados, transformar conjuntos aparentemente confusos em insights valiosos é empolgante. Cada padrão encontrado é uma descoberta que impulsiona decisões importantes.
+My biggest interest is in the area of ​​data mining and analytics, turning seemingly messy sets into valuable insights is exciting. Each pattern found is a discovery that guides important decisions, and knowing that I am contributing to the realization of this process is extremely rewarding.
 
-### “Qualquer tecnologia suficientemente avançada é equivalente à mágica”. — Arthur C. Clarke
+### “any sufficiently advanced technology is equivalent to magic.”. — Arthur C. Clarke
 
 
 ## 🌐 Socials:
