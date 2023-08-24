@@ -3,7 +3,7 @@ Sou uma estudante de engenharia de software apaixonada pelo mundo da programaç�
 
 Meu maior interesse é a área de analise e mineração de dados, transformar conjuntos aparentemente confusos em insights valiosos é empolgante. Cada padrão encontrado é uma descoberta que impulsiona decisões importantes.
 
-###“Qualquer tecnologia suficientemente avançada é equivalente à mágica”. — Arthur C. Clarke
+### “Qualquer tecnologia suficientemente avançada é equivalente à mágica”. — Arthur C. Clarke
 
 
 ## 🌐 Socials:
