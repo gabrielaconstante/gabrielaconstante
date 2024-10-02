@@ -1,4 +1,4 @@
-## 👩‍💻 Hello my friend! All right?
+## 👩‍💻 Hi
 I'm a software engineering student passionate about the world of programming. My journey with codes started in 2021, and since then, I discovered my new passion, which luckily also became my profession.
 
 My biggest interest is in the area of ​​data mining and analytics, turning seemingly messy sets into valuable insights is exciting. Each pattern found is a discovery that guides important decisions, and knowing that I am contributing to the realization of this process is extremely rewarding.
